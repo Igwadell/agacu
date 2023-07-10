@@ -1,0 +1,3 @@
+def solution(param1, param2):
+    solu = param1 + param2
+    return solu
