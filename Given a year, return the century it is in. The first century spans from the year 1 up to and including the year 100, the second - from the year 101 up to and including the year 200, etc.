@@ -1,0 +1,5 @@
+def solution(year):
+
+    val = ((year-1) // 100 )+ 1
+
+    return val
